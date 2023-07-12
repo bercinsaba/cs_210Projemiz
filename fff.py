@@ -1,1 +1,1 @@
-print("Selam Canım")
+print("selam bercin")
